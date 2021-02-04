@@ -27,7 +27,8 @@ class calculation {
 		Double lenght1 = new Double(Lenght_Of_Line1);
 		Double lenght2 = new Double(Lenght_Of_Line2);
 		System.out.println(lenght1.equals(lenght2));
-
+		System.out.println(lenght1.compareTo(lenght2));
+	
 	}
 }
 
