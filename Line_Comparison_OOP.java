@@ -32,7 +32,7 @@ class calculation {
 	}
 }
 
-public class Line_Comparison_oop extends calculation {
+public class LineComparisonoop extends calculation {
 
 	public static void main(String args[]) {
 		System.out.println("WELCOME TO LINE COMPARISON PROGRAM");
